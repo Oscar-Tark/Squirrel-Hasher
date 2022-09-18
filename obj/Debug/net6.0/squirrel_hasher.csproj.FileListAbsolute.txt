@@ -9,3 +9,15 @@
 /home/ferret/GIT/Squirrel-Hasher/obj/Debug/net6.0/squirrel_hasher.dll
 /home/ferret/GIT/Squirrel-Hasher/obj/Debug/net6.0/ref/squirrel_hasher.dll
 /home/ferret/GIT/Squirrel-Hasher/obj/Debug/net6.0/squirrel_hasher.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/bin/Debug/net6.0/squirrel_hasher.deps.json
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/bin/Debug/net6.0/squirrel_hasher.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/bin/Debug/net6.0/squirrel_hasher.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/obj/Debug/net6.0/squirrel_hasher.csproj.AssemblyReference.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/obj/Debug/net6.0/squirrel_hasher.GeneratedMSBuildEditorConfig.editorconfig
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/obj/Debug/net6.0/squirrel_hasher.AssemblyInfoInputs.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/obj/Debug/net6.0/squirrel_hasher.AssemblyInfo.cs
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/obj/Debug/net6.0/squirrel_hasher.csproj.CoreCompileInputs.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/obj/Debug/net6.0/squirrel_hasher.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/obj/Debug/net6.0/ref/squirrel_hasher.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/obj/Debug/net6.0/squirrel_hasher.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Hasher/obj/Debug/net6.0/refint/squirrel_hasher.dll
